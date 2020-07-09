@@ -11,6 +11,9 @@ Objectives of the project
 ### ERD of Product, Stock, and Depot relations
 ![ERD of Product, Stock, Depot relations](ERD.png)  
 
+### Schema of Product, Stock, and Depot relations
+![Schema of Product, Stock, and Depot](Schema.png)  
+
 Deliverables
 
 * [Presentation Slides](https://docs.google.com/presentation/d/11QnvCmhk8FiNOp9CRXfIyAlhApet7oEmFFlo6x6ZZAo/edit#slide=id.p)
