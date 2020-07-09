@@ -16,5 +16,5 @@ Deliverables
 * [Presentation Slides](https://docs.google.com/presentation/d/11QnvCmhk8FiNOp9CRXfIyAlhApet7oEmFFlo6x6ZZAo/edit#slide=id.p)
 * [GitHub Repo Link](https://github.com/bhattavi/CS3876232020)
 * [Code](https://github.com/bhattavi/CS3876232020/blob/master/javasql/src/javasql/SqlAcid.java)
-
+* [Video](https://www.youtube.com/watch?v=Gh8teAom_lE)
 
