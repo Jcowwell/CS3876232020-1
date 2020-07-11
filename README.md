@@ -1,4 +1,3 @@
-To find my CS3876232020, Please go to: https://github.com/Jcowwell/CS3876232020 
 
 ### CS3876232020
 ### Welcome to our CS 623 Java Project.
@@ -13,10 +12,13 @@ Objectives of the project
 ### ERD of Product, Stock, and Depot relations
 ![ERD of Product, Stock, Depot relations](ERD.png)  
 
+### Schema of Product, Stock, and Depot relations
+![Schema of Product, Stock, and Depot](Schema.png)  
+
 Deliverables
 
 * [Presentation Slides](https://docs.google.com/presentation/d/11QnvCmhk8FiNOp9CRXfIyAlhApet7oEmFFlo6x6ZZAo/edit#slide=id.p)
 * [GitHub Repo Link](https://github.com/bhattavi/CS3876232020)
 * [Code](https://github.com/bhattavi/CS3876232020/blob/master/javasql/src/javasql/SqlAcid.java)
-
+* [Video](https://www.youtube.com/watch?v=Gh8teAom_lE)
 
